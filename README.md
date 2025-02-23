@@ -1,8 +1,6 @@
 hi, im tara wang
 i love cats and creating fun stuff 
-  /\_/\
-(˶ᵔ ᵕ ᵔ˶)
-/ >🌷<\~⁠♡
+
 
 <!---
 trwng/trwng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
